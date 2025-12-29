@@ -20,3 +20,6 @@
 // stashing changes
 // git stash
 // git stash pop
+
+// cherry-picking
+// git cherry-pick <commit-hash>
