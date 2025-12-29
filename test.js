@@ -16,3 +16,7 @@
 
 // fetching branches
 // git fetch origin <branch-name>
+
+// stashing changes
+// git stash
+// git stash pop
