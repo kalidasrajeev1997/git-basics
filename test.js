@@ -17,4 +17,6 @@
 // fetching branches
 // git fetch origin <branch-name>
 
-// conflicts
+// stashing changes
+// git stash
+// git stash pop
