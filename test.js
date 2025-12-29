@@ -16,3 +16,5 @@
 
 // fetching branches
 // git fetch origin <branch-name>
+
+// conflicts
