@@ -23,3 +23,6 @@
 
 // cherry-picking
 // git cherry-pick <commit-hash>
+
+// reverting changes
+// git revert <commit-hash>
