@@ -22,6 +22,3 @@
 // git stash pop
 
 // vscode test
-
-// cherry-picking
-// git cherry-pick <commit-hash>
