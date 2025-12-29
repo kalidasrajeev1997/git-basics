@@ -10,3 +10,6 @@
 // git checkout -b <branch-name>
 
 // (main) --> extending the main branch
+
+// pull changes from remote
+// git pull origin <branch-name>
