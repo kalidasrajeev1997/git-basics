@@ -13,3 +13,6 @@
 
 // pull changes from remote
 // git pull origin <branch-name>
+
+// fetching branches
+// git fetch origin <branch-name>
