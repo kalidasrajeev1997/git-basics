@@ -22,3 +22,18 @@
 // git stash pop
 
 // vscode test
+
+
+
+// cherry-picking
+// main --> development branch ---> two features are merged to main
+// main ---> production branch (2 features to prod)
+// need only 1 feature in production branch
+// cherry-pick only 1 feature to production branch
+// production --> users see this branch
+// main --> production --> 2 features
+
+// Reverting
+// we commited 2 changes in main branch. --> wrong
+// change is not correct
+// revert the last commit
